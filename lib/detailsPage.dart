@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:ebook/api/pdf_api.dart';
-
 import 'dart:io';
 import 'ReadingPage.dart';
-import 'package:path_provider/path_provider.dart';
 
 class DetailsPage extends StatefulWidget {
   final String imageAddress;

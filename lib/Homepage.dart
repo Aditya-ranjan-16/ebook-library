@@ -282,7 +282,7 @@ class _HomepageState extends State<Homepage> {
                               child: FittedBox(
                                   fit: BoxFit.scaleDown,
                                   child: Text(
-                                    "JIS Book Depot",
+                                    "E Book Library",
                                     style: GoogleFonts.lato(
                                         textStyle: TextStyle(
                                       fontWeight: FontWeight.bold,
