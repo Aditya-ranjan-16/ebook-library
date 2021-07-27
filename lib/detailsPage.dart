@@ -351,7 +351,7 @@ class _DetailsPageState extends State<DetailsPage> {
                 width: size.width,
                 child: Center(
                     child: Text(
-                  "The Arsonist, by the acclaimed author of The Tall Man, is the story of that man, the fire he lit, and the people who were killed. On the scorching February day in 2009 that became known as Black Saturday, a man lit two fires in Victoria's Latrobe Valley, then sat on the roof of his house to watch the inferno.",
+                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam id dictum lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce tincidunt ante vel aliquam imperdiet. Donec imperdiet tortor ex, vel condimentum nibh venenatis non. Aliquam commodo tortor vel leo mollis mattis. Mauris nec vehicula nibh, in ullamcorper nulla. Morbi ullamcorper quis metus tempus scelerisque. Sed porttitor orci vitae leo mattis, vel scelerisque urna blandit. Donec eu posuere sem, a imperdiet ligula. Integer congue ornare neque, vel consequat enim fermentum id. Praesent sit amet dolor id quam feugiat hendrerit non at lacus. Vestibulum scelerisque nulla sed dui tristique, id efficitur lacus tempus.",
                   overflow: TextOverflow.clip,
                   style: GoogleFonts.lato(
                       textStyle: TextStyle(

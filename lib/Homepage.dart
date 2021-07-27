@@ -321,10 +321,10 @@ class _HomepageState extends State<Homepage> {
                               height: constraints.maxHeight * 0.7,
                               child: Center(
                                 child: Text(
-                                  " “An equation for me has no meaning, unless it expresses a thought of God.”",
+                                  " If education is identical with information, the libraries are the greatest sages in the world, and encyclopedias are the Rishis.",
                                   textAlign: TextAlign.center,
                                   maxLines: 2,
-                                  overflow: TextOverflow.fade,
+                                  overflow: TextOverflow.visible,
                                   style: GoogleFonts.lato(
                                       textStyle: TextStyle(
                                           fontWeight: FontWeight.w400,
@@ -339,7 +339,7 @@ class _HomepageState extends State<Homepage> {
                               height: constraints.maxHeight * 0.3,
                               child: Center(
                                 child: Text(
-                                  "― Srinivasa Ramanujan",
+                                  "― Swami Vivekananda",
                                   textAlign: TextAlign.center,
                                   maxLines: 4,
                                   overflow: TextOverflow.clip,

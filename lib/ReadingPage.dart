@@ -103,7 +103,7 @@ class _ReadingPageState extends State<ReadingPage> {
                 ),
 
                 //color: Colors.red,
-                height: size.height * 0.826811,
+                height: size.height * 0.796811,
                 width: size.width,
                 child: PDFView(
                   filePath: widget.file.path,
